@@ -1,3 +1,6 @@
+  # Hi 👋 I'm Chizurum Okere-Olujie
+  A Machine Learning Engineer specialising in Computer Vision and MLOps
+
 # 💫 About Me:
 I'm a Machine Learning Engineer specialising in Computer Vision, MLOps, and Large Language Models(LLM). I'm passionate about building AI-powered solutions that can help various industries achieve efficiency.
 
